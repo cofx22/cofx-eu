@@ -1,4 +1,4 @@
 # cofx.eu
 
-At the moment, www.cofx.eu and cofx.eu redirect to cofx.nl.
+At the moment, https://www.cofx.eu and https://cofx.eu redirect to https://cofx.nl.
 This repository is just a placeholder.
